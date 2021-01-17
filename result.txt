@@ -1,0 +1,27 @@
+Add
+LinkedHashSet = 1592661
+HashMap = 230722
+TreeSet = 7881614
+ArrayList = 645239
+TreeMap = 1835025
+Linkedlist = 1307406
+HashSet = 413431
+LinkedHashMap = 338077
+Get
+LinkedHashSet = 2817223
+HashMap = 154545
+TreeSet = 1491448
+ArrayList = 385151
+TreeMap = 657671
+Linkedlist = 2920421
+HashSet = 183220
+LinkedHashMap = 569310
+Remove
+LinkedHashSet = 852286
+HashMap = 328570
+TreeSet = 5655938
+ArrayList = 3058730
+TreeMap = 405555
+Linkedlist = 1934482
+HashSet = 2464438
+LinkedHashMap = 321334
